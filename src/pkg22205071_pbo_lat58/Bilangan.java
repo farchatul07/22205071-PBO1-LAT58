@@ -1,8 +1,8 @@
-/*
+*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg22205071_pbo_lat28;
+package pkg22205071_pbo_lat58;
 
 /**
  *
@@ -13,7 +13,7 @@ package pkg22205071_pbo_lat28;
  Kelas             : PBO1
  Deskripsi Program : untuk menampilkan hasil Tambah dan Kurang
  */
-public class Bilangan {
+class Bilangan {
 
     protected int x;
     protected int y;
